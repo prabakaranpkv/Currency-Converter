@@ -1,0 +1,41 @@
+.container-fluid {
+  text-align: center;
+}
+.header {
+  margin-top: 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bolder;
+  font-style: oblique;
+  font-size: 3rem;
+  color: rgb(109, 13, 156);
+}
+.subDiv {
+  margin-top: 60px;
+}
+.subDiv2 {
+  margin-top: 20px;
+}
+.input1,
+.input3 {
+  border: 2px solid rgb(233, 17, 186);
+  background: transparent;
+  font-weight: bold;
+  color: navy;
+  font-size: 20px;
+}
+.input2,
+.input4 {
+  border: 2px solid rgb(53, 82, 4);
+  font-style: italic;
+  color: rgb(27, 2, 73);
+  background: transparent;
+  font-weight: bold;
+  font-size: 20px;
+}
+body {
+  background-image: url("https://static8.depositphotos.com/1266781/803/v/950/depositphotos_8036228-stock-illustration-money-symbols-around-the-world.jpg");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-position: top;
+}
